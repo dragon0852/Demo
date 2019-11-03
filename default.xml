@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ 
+ 	<remote  name="Test" fetch="git@github.com:dragon0852/Test.git" />
+			    
+	<default revision="master" remote="Test" sync-j="1" />
+									   
+	<project path="TestDemo" name="TestDemo/demo" />
+										  
+										  
+</manifest>
